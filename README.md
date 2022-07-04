@@ -90,6 +90,9 @@ Follow the instructions shown in each README of each folder of the "full-stack-w
 
 ### <img alt="GIF" src="https://github.com/JonyPeixoto/jonypeixoto/blob/main/assets/coin.gif" width=45 height=35 /> Blockchain Applications:
 
+<a href="https://docs.soliditylang.org" target="_blank">
+  <code><img alt="Solidity" height="30" width="100" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /></code>
+</a>
 <a href="https://ethereum.org" target="_blank">
   <code><img alt="Ethereum" height="30" width="100" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /></code>
 </a>
