@@ -30,6 +30,8 @@
   <img alt="GitHub License" src="https://img.shields.io/github/license/jonypeixoto/full-stack-web3-projects"> 
 </p>
 
+<br/>
+
 <p align="center">
   <a href="#information_source-repositories">Repositories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#warning-prerequisites">Prerequisites</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
