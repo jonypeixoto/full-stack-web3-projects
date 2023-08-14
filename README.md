@@ -39,7 +39,9 @@
   <a href="#star2-author">Author</a>
 </p>
 
-This repository was created to put practical web 3.0 projects from the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, Solidity, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus is on <b>advanced projects</b>.
+<br/>
+
+This repository was created to put practical web 3.0 projects from the knowledge acquired from the main programming languages in the world, HTML5, CSS3, Javascript, Solidity, PHP among other languages acquired in a self-taught way according to the official documentation of the languages whose focus is on <b>advanced and complex projects</b>.
 
 ##  :information_source: Repositories
 
